@@ -493,14 +493,16 @@
   display: flex;
   flex-wrap: wrap;
   margin-left: -27px;
-  align-items: center;
   margin-bottom: 75.5px;
+}
+.reviews__list-1 {
+  width: 50%;
 }
 
 .reviews__item {
   display: flex;
   flex-direction: column;
-  width: calc(100% / 2 - 27px);
+  /* width: calc(100% / 2 - 27px); */
   align-items: flex-start;
   margin-left: 27px;
   background: #f4f5f5;
