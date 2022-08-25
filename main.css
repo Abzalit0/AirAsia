@@ -111,7 +111,7 @@
 }
 .hot-content__title:after {
   content: "";
-  background-image: url("/src/img/flame.png");
+  background-image: url("src/img/flame.png");
   max-width: 21px;
   height: 28px;
   position: absolute;
